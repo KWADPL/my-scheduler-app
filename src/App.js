@@ -1,4 +1,3 @@
-// src/App.js
 import React from 'react';
 import SchedulerComponent from './SchedulerComponent';
 import { CssBaseline, Container, Typography, AppBar, Toolbar } from '@mui/material';
